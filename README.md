@@ -20,9 +20,8 @@ First job
 Ниже пример кода из нашего приложения:
 
 '''css
-.selector{	
+	.selector{	
 	font-family: "Awesome", Arial, sans-serif;
-	
 	color: red;
 }
 '''
